@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fedfa22099ec3d4d9a1bfca6b6abeb0, type: 3}
+  m_Name: BoyBackpack
+  m_EditorClassIdentifier: 
+  itemMoney: 1920
+  lstItem:
+  - {fileID: 11400000, guid: 80ec01c0e4fba544fb9fdae42fbb20f0, type: 2}
+  - {fileID: 11400000, guid: 11d37b3d008c47840b3a5ef4ea5f2757, type: 2}
+  - {fileID: 11400000, guid: 848338e545ac2ef4681aa681dcf16d86, type: 2}
+  - {fileID: 11400000, guid: 8104cb4b4453f1e4c9466ec4bf75b0c6, type: 2}
+  - {fileID: 11400000, guid: 0e4cd015a9e7882489f2f29b9d21336b, type: 2}
+  - {fileID: 11400000, guid: 504b77ad82a9f2143b66d40c27ca7eb4, type: 2}

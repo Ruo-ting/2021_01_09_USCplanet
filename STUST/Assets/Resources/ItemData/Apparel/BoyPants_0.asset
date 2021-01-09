@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9377c929ebe3a4f4d845e124c90f9ebe, type: 3}
+  m_Name: BoyPants_0
+  m_EditorClassIdentifier: 
+  itemKind: 2
+  itemName: 8
+  itemID: 0
+  itemImage: {fileID: 21300000, guid: f7340cc654f3c7e47a428e357bb924e9, type: 3}
+  itemInfo: 
+  itemWhoUsed: 1
+  itemInShop: 0
+  itemCost: 0
+  itemHeld: 0
+  itemObjectName: 
+  itemObject: {fileID: 0}
+  itemTexture: {fileID: 2800000, guid: 02f0c75a8196b144cbaeac145921d191, type: 3}
+  itemColor: {r: 0, g: 0, b: 0, a: 0}

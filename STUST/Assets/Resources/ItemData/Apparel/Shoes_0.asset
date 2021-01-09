@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9377c929ebe3a4f4d845e124c90f9ebe, type: 3}
+  m_Name: Shoes_0
+  m_EditorClassIdentifier: 
+  itemKind: 2
+  itemName: 9
+  itemID: 0
+  itemImage: {fileID: 21300000, guid: 183dc31b57de4e14d825e0e8221f235d, type: 3}
+  itemInfo: "\u6F6E\u978B0"
+  itemWhoUsed: 0
+  itemInShop: 1
+  itemCost: 80
+  itemHeld: 0
+  itemObjectName: 
+  itemObject: {fileID: 0}
+  itemTexture: {fileID: 2800000, guid: 7731865f62442ec40bb8d623bbef9d8d, type: 3}
+  itemColor: {r: 0, g: 0, b: 0, a: 0}

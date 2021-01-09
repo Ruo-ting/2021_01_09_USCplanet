@@ -1,0 +1,194 @@
+newmtl gym_uv:TEMPORARY_IMPORT_NAMESPACE_1015__:shadingMap1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl gym_uv:blinn16SG
+illum 4
+Kd 0.66 0.66 0.66
+Ka 0.19 0.19 0.19
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl gym_uv:floewer:shadingMap1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl gym_uv:floewer:shadingMap2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl gym_uv:floewer:shadingMap3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl gym_uv:gym_tree:lambert2SG
+illum 4
+Kd 0.05 0.71 0.98
+Ka 0.27 0.43 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl gym_uv:gym_tree:lambert3SG
+illum 4
+Kd 0.89 0.14 0.12
+Ka 0.27 0.43 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl gym_uv:gym_tree:lambert4SG
+illum 4
+Kd 0.81 0.75 0.75
+Ka 0.27 0.43 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl gym_uv:lambert2SG
+illum 4
+Kd 0.41 0.66 0.16
+Ka 0.27 0.43 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl gym_uv:lambert3SG
+illum 4
+Kd 0.89 0.25 0.23
+Ka 0.27 0.43 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl gym_uv:lambert392SG
+illum 4
+Kd 0.17 0.03 0.03
+Ka 0.94 0.94 0.94
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl gym_uv:lambert796SG
+illum 4
+Kd 0.05 0.22 0.01
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl gym_uv:lambert800SG
+illum 4
+Kd 0.98 0.85 0.24
+Ka 0.27 0.43 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl gym_uv:lambert801SG
+illum 4
+Kd 0.66 0.14 0.66
+Ka 0.27 0.43 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl gym_uv:lambert803SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd road2.png
+Ni 1.00
+newmtl gym_uv:lambert804SG
+illum 4
+Kd 1.00 0.73 0.38
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl gym_uv:lambert805SG
+illum 4
+Kd 0.35 0.38 0.03
+Ka 0.27 0.93 0.15
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl gym_uv:lambert1202SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.41 0.41 0.41
+Tf 1.00 1.00 1.00
+map_Kd smallvendor.jpg
+Ni 1.00
+newmtl gym_uv:mushroom:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.32 0.32 0.32
+Tf 1.00 1.00 1.00
+map_Kd red_mushroom.jpg
+Ni 1.00
+newmtl gym_uv:set146
+illum 4
+Kd 0.09 0.39 0.06
+Ka 0.44 0.44 0.44
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl gym_uv:set148
+illum 4
+Kd 0.92 0.16 0.04
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl gym_uv:set149
+illum 4
+Kd 0.36 0.13 0.20
+Ka 0.26 0.26 0.26
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl gym_uv:set152
+illum 4
+Kd 0.22 0.08 0.02
+Ka 0.43 0.17 0.04
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl gym_uv:set154
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.28 0.26 0.24
+Tf 1.00 1.00 1.00
+map_Kd whitewood-test1.jpg
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.46 0.46 0.46
+Tf 1.00 1.00 1.00
+map_Kd road.jpg
+Ni 1.00
+newmtl lambert804SG
+illum 4
+Kd 0.27 0.05 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert805SG
+illum 4
+Kd 0.16 0.25 0.07
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl mushroom02SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.31 0.31 0.31
+Tf 1.00 1.00 1.00
+map_Kd red_mushroom2.jpg
+Ni 1.00
+newmtl road4SG
+illum 4
+Kd 0.07 0.28 0.04
+Ka 0.44 0.44 0.44
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl smallvendor7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.41 0.41 0.41
+Tf 1.00 1.00 1.00
+map_Kd smallvendor2.jpg
+Ni 1.00

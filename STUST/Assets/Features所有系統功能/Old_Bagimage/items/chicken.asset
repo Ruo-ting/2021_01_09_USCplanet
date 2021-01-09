@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a143b6e48f30bd148af558a3d6a84279, type: 3}
+  m_Name: chicken
+  m_EditorClassIdentifier: 
+  itemName: "\u96DE"
+  itemImage: {fileID: 21300000, guid: 94887028e1c98a44bbbf69d146a1ecc5, type: 3}
+  itemHeld: 4
+  itemInfo: "\u597D\u50CF\u662F\u4E00\u96BB\u96DE"
+  equip: 0

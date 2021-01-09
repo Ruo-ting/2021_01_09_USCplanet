@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04dcee4cd251b854a88ce19b702d7147, type: 3}
+  m_Name: "\u4E3B\u89D2\u548C\u82B1\u59E8"
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 7f8e009c372c6a6458bd5abee8d417a1, type: 2}
+  speakerRight: {fileID: 0}
+  lines:
+  - character: {fileID: 11400000, guid: 7f8e009c372c6a6458bd5abee8d417a1, type: 2}
+    text: "\u54C8\u56C9!\u6211\u662F\u82B1\u59E8"
+  - character: {fileID: 11400000, guid: 7f8e009c372c6a6458bd5abee8d417a1, type: 2}
+    text: "\u4ECA\u5929\u5929\u6C23\u771F\u597D"
+  - character: {fileID: 11400000, guid: 7f8e009c372c6a6458bd5abee8d417a1, type: 2}
+    text: "\u53EF\u4EE5\u5E6B\u6211\u4E00\u8D77\u64BF\u5783\u573E\u55CE?"
+  - character: {fileID: 0}
+    text: 
+  - character: {fileID: 0}
+    text: 
